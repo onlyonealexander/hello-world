@@ -1,2 +1,2 @@
 # hello-world
-- This is my git practice project.
+- This is my Git practice project.
